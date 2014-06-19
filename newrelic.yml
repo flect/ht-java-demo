@@ -27,7 +27,7 @@ common: &default_settings
   # For example, to report data to "My Application" and "My Application 2" use this:
   # app_name: My Application;My Application 2
   # This setting is required.
-  app_name: My Application
+  app_name: ht-java-demo
 
   # Set this property to true along with the high security property 
   # in the New Relic UI to enable high security for the account.
