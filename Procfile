@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/dependency/webapp-runner-7.0.40.0.jar --port $PORT target/helloworld
+web: java $JAVA_OPTS -jar target/dependency/webapp-runner-7.0.40.0.jar --port $PORT target/ht-java-demo

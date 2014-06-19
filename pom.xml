@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>jp.co.flect.heroku.training</groupId>
-    <artifactId>training-demo</artifactId>
-    <name>helloworld</name>
+    <artifactId>ht-java-demo</artifactId>
+    <name>ht-java-demo</name>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
