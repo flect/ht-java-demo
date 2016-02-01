@@ -1,21 +1,13 @@
 ht-java-tomcat
 ==============
 
-# アンケートフォーム
-受講後に以下のURL先のアンケートへの回答をお願いたします。  
-
-[アンケートリンク](http://www.clicktools.com/survey?iv=3b12ab07b0562e4)  
-
-+ コースアンケートID
-  + E715499
-+ 担当講師
-  + Flect
-  
-
 Sample project that use tomcat(webapp-runner) for Heroku training
 
 How to deploy
 --------------
+
+### You can deploy this app to Heroku just by clicking 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### Step1  
 
