@@ -1,0 +1,12 @@
+box: yuasano/heroku:0.2
+
+build:
+    steps:
+        - script:
+            name: step1
+            code: |
+                echo "doing step1"
+        - script:
+            name: step2
+            code: |
+                echo "doing step2"
