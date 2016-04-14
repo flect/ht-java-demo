@@ -15,7 +15,5 @@ public class HelloServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
 		System.out.println("TEST_VARIABLE   : " + System.getenv("TEST_VARIABLE"));
 		res.getWriter().print("Hello World!");
-		res.getWriter().print("Hello World!");
-		res.getWriter().print("Hello World!");
 	}
 }
