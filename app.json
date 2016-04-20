@@ -4,7 +4,7 @@
   "env": {
     "TEST_VARIABLE": {
       "value": "",
-      "require": false
+      "require": "false"
     }
   }
 }
