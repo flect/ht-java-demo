@@ -3,7 +3,8 @@
   "description": "Demo application for Heroku Traning",
   "env": {
     "TEST_VARIABLE": {
-      "value": "hogehoge"
+      "value": "",
+      "required": false
     }
   }
 }
