@@ -2,8 +2,9 @@
   "name": "ht-java-demo",
   "description": "Demo application for Heroku Traning",
   "env": {
-    "TEST_VALIABLE": {
-      "value": ""
+    "TEST_VARIABLE": {
+      "value": "",
+      "required": false
     }
   }
 }
