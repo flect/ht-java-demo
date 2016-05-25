@@ -6,11 +6,7 @@ Sample project that use tomcat(webapp-runner) for Heroku training
 How to deploy
 --------------
 
-<<<<<<< HEAD
 ### You can deploy this app to Heroku just by clicking 
-=======
-=======
->>>>>>> master
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### Step1  
