@@ -1,4 +1,4 @@
-ht-java-tomcat
+ht-java-demo
 ==============
 
 Sample project that use tomcat(webapp-runner) for Heroku training
@@ -14,8 +14,8 @@ How to deploy
 Clone app from Github  
 
 ```
-$ git clone git@github.com:flect/ht-java-tomcat.git
-$ cd ht-java-tomcat/
+$ git clone git@github.com:flect/ht-java-demo.git
+$ cd ht-java-demo/
 ```
 
 ### Step2  
