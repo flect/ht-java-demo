@@ -17,5 +17,6 @@ public class HelloServlet extends HttpServlet {
 		System.out.println("Heroku App PORT   : " + System.getenv("PORT"));
 		res.getWriter().println("Hello World!");
 		res.getWriter().println("Heroku CI Test");
+		res.getWriter().println("Heroku CI Test");
 	}
 }
