@@ -6,5 +6,12 @@
       "value": "default_value",
       "required": false
     }
+  },
+  "environments": {
+    "test": {
+      "env": {
+        "TEST_VARIABLE": "heroku ci"
+      }
+    }
   }
 }
